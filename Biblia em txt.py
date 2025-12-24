@@ -1,3 +1,4 @@
+# Função para criar o arquivo
 def biblia_inicio(livro, capitulo):
     conteudo = []
     for c in range(1, capitulo + 1):
@@ -5,7 +6,8 @@ def biblia_inicio(livro, capitulo):
     with open('Biblia.txt', 'w') as arq:
         for item in conteudo:
             arq.writelines(item)
-            
+    
+# Função para adicionar ao arquivo existente
 def biblia(livro, capitulo):
     conteudo = []
     for c in range(1, capitulo +1):
