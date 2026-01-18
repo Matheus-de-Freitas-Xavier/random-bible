@@ -22,5 +22,5 @@ with open('Bible.txt', 'w') as arq:
 defined = f'{today} ---- {aleatory} (X)'
 print(defined)
 
-with open('Bible_done.txt' , 'a') as arq:
+with open('Bible_readed.txt' , 'a') as arq:
     arq.write(defined + '\n')
