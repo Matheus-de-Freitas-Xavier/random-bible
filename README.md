@@ -42,7 +42,7 @@ cd English/
 ```
 or
 ```bash
-cd Brazilian_Portuguese/
+cd Portuguese/
 ```
 3. **Run the script to create the file with list of chapters (Bible.txt)**:
 
