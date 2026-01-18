@@ -2,14 +2,13 @@
 
 A script that displays random Bible verses to provide inspiration and reflection at the click of a button.
 
----
-
 ## 🚀 Technologies
 
 This project was built using the following technologies:
 
 - **Language**: Python 3
 - **IDE**: Spyder (optional)
+- **Core Modules**: `datetime` (Standard Library)
 
 ## 💻 How it works
 
@@ -23,21 +22,21 @@ This script was created to practice Python fundamentals. It allows users to quic
 
 ## 🛠️ How to Run
 
-**Prerequisites**
+### Prerequisites
 
 Make sure you have Python installed on your system.
 
-**Steps**
+### Steps
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/Matheus-de-Freitas-Xavier/random-bible
 ```
 
-2. **Naviguate to the folder**:
+2. **Navigate to the folder**:
 ```bash
 cd random-bible/
 ```
-3. **Choose your preferred language and naviguate to the folder**:
+3. **Choose your preferred language and navigate to the folder**:
 ```bash
 cd English/
 ```
@@ -45,21 +44,26 @@ or
 ```bash
 cd Brazilian_Portuguese/
 ```
-3. **Run the script to create the file with list of chapters**:
+3. **Run the script to create the file with list of chapters (Bible.txt)**:
 
 Open your preferred terminal or IDE and run:
 
-*(The example uses the English version, but if you are using the Portuguese version, copy the command below and change `EN` to `PT-BR`.)*
+*(The example uses the English version, but if you are using the Portuguese version, copy the command below and replace `EN` to `PT-BR`.)*
 ```bash
 python3 Bible_txt_EN.py
 ```
-4.  **Run the script to display a random chapter from the Bible and save it to another file**:
+> If display a error *'python3 not found'* make sure the python is installed.
+> But if the error persists replace `python3` to `python`
+4.  **Run the script to display a random chapter from the Bible and save it to another file (bible_readed.txt)**:
 
-*(The example uses the English version, but if you are using the Portuguese version, copy the command below and change `EN` to `PT-BR`.)*
+*(The example uses the English version, but if you are using the Portuguese version, copy the command below and replace `EN` to `PT-BR`.)*
 ```bash
 python3 Bible_random_EN.py
 ```
-### Once the *`Bible_txt.py`* file has been executed, run only the *`Bible_random.py`* file so that it does not overwrite the existing file.
+--- 
+## :exclamation: WARNING
+#### Once the *`Bible_txt.py`* file has been executed, no need to run again
+#### Run only the *`Bible_random.py`* file so that it does not overwrite the existing file.
 
 ## 📫 Contact
 
