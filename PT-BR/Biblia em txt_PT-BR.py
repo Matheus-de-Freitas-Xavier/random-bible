@@ -17,7 +17,7 @@ def biblia(livro, capitulo):
             arq.writelines(item)
         
 # genesis = [50]
-biblia_inicio('Genêsis', 50)
+biblia_inicio('Gênesis', 50)
 
 # exodo = [40]
 biblia('Êxodo', 40)
