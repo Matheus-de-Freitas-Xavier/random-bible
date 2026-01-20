@@ -8,7 +8,7 @@ This project was built using the following technologies:
 
 - **Language**: Python 3
 - **IDE**: Spyder (optional)
-- **Core Modules**: `datetime` (Standard Library)
+- **Core Modules**: `datetime` and `random` (Standard Library)
 
 ## 💻 How it works
 
