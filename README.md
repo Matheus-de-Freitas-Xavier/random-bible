@@ -67,4 +67,4 @@ python3 Bible_random_EN.py
 
 ## 📫 Contact
 
-Developed by **Matheus de Freitas Xavier**
+Developed by **Matheus de Freitas Xavier** • [Linkedin Profile](https://www.linkedin.com/in/matheus-xavier-a14b0732a)
