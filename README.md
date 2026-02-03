@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 📖 Random Bible Verse Generator
 
 A script that displays random Bible verses to provide inspiration and reflection at the click of a button.
